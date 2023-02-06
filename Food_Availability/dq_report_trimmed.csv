@@ -1,0 +1,23 @@
+,Col_Name,Data Type,Missing Values,Unique Values,Maximum Value
+0,Unnamed: 0,int64,0,113,118.0
+1,Year,int64,0,113,2021.0
+2,US Population,float64,0,113,331.893745
+3,Plain Whole Milk - Consumed,int64,0,109,11659.0
+4,Plain Whole Mild - Sales,float64,0,113,44672.0
+5,Plain Whole Milk - Total,float64,0,113,48051.0
+6,Flavored Whole Milk,float64,0,109,1549.0
+7,Total Plain and Flavored,float64,0,113,49000.0
+8,2 Percent Plain,float64,41,72,19851.0
+9,1 Percent Plain,float64,58,55,7755.499999999999
+10,Total Low Fat,float64,41,72,26611.6
+11,Low Fat Flavored,float64,0,109,3980.8000000000006
+12,Total Low Fat.1,float64,0,110,30578.6
+13,Buttermilk,float64,0,110,1237.0
+14,Skim Milk,float64,0,106,9203.0
+15,Butter and Skim Consumed,float64,56,55,5299.0
+16,Total low fat and skim,float64,0,112,39418.1
+17,Other Eggnog,object,0,54,95
+18,Misc,float64,91,22,1179.9
+19,Total other,float64,45,56,1320.7
+20,Total beverage milk Sales,float64,0,113,55432.9
+21,Total Beverage Fluid Milk Available,float64,0,113,56000.0
